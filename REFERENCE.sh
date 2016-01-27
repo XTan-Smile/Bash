@@ -31,7 +31,7 @@
 # uniq:   same lines only output once
 # wc:     word count e.g. wc -w (counting english words)
 #                         wc -l (counting how many lines)
-# cut:    e.g. cut -d ':' -f 3  # take ':' as partition sign, and take out the 5th field
+# cut:    e.g. cut -d ':' -f 3      # take ':' as partition sign, and take out the 5th field
 # grep:   grep 'string'                      -- get lines with keyword 'string'
 #         grep -v 'string'                   -- get lines without keyword 'string'
 #         grep 'string' <file>               -- from <file>, get those lines with keyword 'string'
